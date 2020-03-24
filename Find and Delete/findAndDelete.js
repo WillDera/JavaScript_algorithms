@@ -1,5 +1,6 @@
 /*
-	This piece of code takes an array(first argument), followed by one or more arguments. It then Removes all elements from the array that are of the same values as the arguments.
+	This piece of code takes an array(first argument), followed by one or more arguments. 
+	It then Removes all elements from the array that are of the same values as the arguments.
  */
 
 function deleter(arr) {
